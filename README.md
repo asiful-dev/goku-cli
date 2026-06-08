@@ -79,7 +79,7 @@ Then run the local binary:
 ```bash
 goku -i input.json -o yaml
 goku -i input.yaml -o json
-goku -i input.json -o yaml -n custom-output
+goku -i input.json -o yaml -n custom-output-filename
 ```
 
 ## Examples
